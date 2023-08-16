@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Said Berk</h1>
-<h3 align="center">A computer enthusiast from Türkiye 🇹🇷</h3>
+<h3 align="center">A computer science and software engineering enthusiast from Türkiye 🇹🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidberk27&label=Profile%20views&color=0e75b6&style=flat" alt="saidberk27" /> </p>
 
