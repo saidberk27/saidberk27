@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidberk27&label=Profile%20views&color=0e75b6&style=flat" alt="saidberk27" /> </p>
 
-- 🌱 I’m currently learning **Java, PostgresSQL, React - Native**
+- 🌱 I’m currently learning **Java, Angular*
 
 - 📝 I regularly write articles on [https://medium.com/@csaidberk](https://medium.com/@csaidberk)
 
