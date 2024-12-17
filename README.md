@@ -2,11 +2,9 @@
 <h3 align="center">A computer science and software engineering enthusiast from Türkiye 🇹🇷</h3>
 
 
-- 🌱 I’m currently learning **Java, Angular*
+- 🌱 I’m currently learning **Machine Learning, Deep Learning*
 
 - 📝 I regularly write articles on [https://medium.com/@csaidberk](https://medium.com/@csaidberk)
-
-- 💬 Ask me about **Flutter, Python, C#**
 
 - 📫 How to reach me **csaidberk@gmail.com**
 
